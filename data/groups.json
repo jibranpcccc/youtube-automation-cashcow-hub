@@ -1,0 +1,512 @@
+[
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-1",
+    "title": "r/NewTubers Creator Development",
+    "platform": "Reddit",
+    "category": "YouTube Growth",
+    "memberCount": "380,000+ members",
+    "description": "The premier community for growing YouTube channels, mastering retention curves, thumbnail design, and video pacing.",
+    "joinUrl": "https://www.reddit.com/r/NewTubers/",
+    "tags": [
+      "newtubers",
+      "youtube",
+      "retention",
+      "thumbnails"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-2",
+    "title": "r/youtubers Professional Video Creators",
+    "platform": "Reddit",
+    "category": "Creator Community",
+    "memberCount": "290,000+ members",
+    "description": "Discussions on YouTube partner monetization, copyright strike management, audience demographics, and studio production.",
+    "joinUrl": "https://www.reddit.com/r/youtubers/",
+    "tags": [
+      "youtubers",
+      "monetization",
+      "studio",
+      "production"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-3",
+    "title": "r/VideoEditing Post-Production Craft",
+    "platform": "Reddit",
+    "category": "Video Editing",
+    "memberCount": "420,000+ members",
+    "description": "Mastering editing workflows, motion graphics, sound design, color grading, and speed-editing techniques.",
+    "joinUrl": "https://www.reddit.com/r/VideoEditing/",
+    "tags": [
+      "videoediting",
+      "motiongraphics",
+      "sounddesign",
+      "editing"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-4",
+    "title": "r/premiere Adobe Premiere Pro Mastermind",
+    "platform": "Reddit",
+    "category": "NLE Software",
+    "memberCount": "160,000+ members",
+    "description": "Essential Premiere Pro plugins, dynamic link workflows, caption generation, audio mastering, and rendering presets.",
+    "joinUrl": "https://www.reddit.com/r/premiere/",
+    "tags": [
+      "premiere",
+      "adobe",
+      "editing",
+      "plugins"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-5",
+    "title": "r/AfterEffects Motion Graphics Guild",
+    "platform": "Reddit",
+    "category": "Motion Graphics",
+    "memberCount": "280,000+ members",
+    "description": "Creating viral hooks, 3D text animations, cinematic transitions, particle effects, and kinetic typography for YouTube.",
+    "joinUrl": "https://www.reddit.com/r/AfterEffects/",
+    "tags": [
+      "aftereffects",
+      "motion",
+      "typography",
+      "vfx"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-6",
+    "title": "r/davinciresolve Color & Fusion Workflows",
+    "platform": "Reddit",
+    "category": "DaVinci Resolve",
+    "memberCount": "190,000+ members",
+    "description": "Free and Studio DaVinci Resolve editing, Fairlight audio design, node-based color grading, and Fusion effects.",
+    "joinUrl": "https://www.reddit.com/r/davinciresolve/",
+    "tags": [
+      "davinci",
+      "resolve",
+      "colorgrading",
+      "fusion"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-7",
+    "title": "r/PartneredYoutube Monetized Channels",
+    "platform": "Reddit",
+    "category": "YPP Partners",
+    "memberCount": "85,000+ members",
+    "description": "Exclusive forum for monetized creators discussing RPM/CPM rates by niche, AdSense payouts, and sponsorship contracts.",
+    "joinUrl": "https://www.reddit.com/r/PartneredYoutube/",
+    "tags": [
+      "partnered",
+      "cpm",
+      "rpm",
+      "adsense"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-8",
+    "title": "r/YouTubeCreators Channel Management",
+    "platform": "Reddit",
+    "category": "Creator Strategy",
+    "memberCount": "65,000+ members",
+    "description": "Long-term channel brand building, community tab engagement, multi-format upload cadences, and viewer retention.",
+    "joinUrl": "https://www.reddit.com/r/YouTubeCreators/",
+    "tags": [
+      "youtubecreators",
+      "strategy",
+      "community",
+      "retention"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-9",
+    "title": "r/Shorts Vertical Video Strategy",
+    "platform": "Reddit",
+    "category": "YouTube Shorts",
+    "memberCount": "32,000+ members",
+    "description": "Mastering YouTube Shorts algorithm, swipe-away rate reduction, vertical storytelling, and shorts-to-longform conversion.",
+    "joinUrl": "https://www.reddit.com/r/shorts/",
+    "tags": [
+      "shorts",
+      "vertical",
+      "algorithm",
+      "virality"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-10",
+    "title": "r/content_marketing Digital Video Reach",
+    "platform": "Reddit",
+    "category": "Content Marketing",
+    "memberCount": "180,000+ members",
+    "description": "Repurposing video content across TikTok, Reels, Shorts, and building automated video production pipelines.",
+    "joinUrl": "https://www.reddit.com/r/content_marketing/",
+    "tags": [
+      "content",
+      "repurposing",
+      "pipelines",
+      "video"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-11",
+    "title": "r/socialmediamarketing Video Distribution",
+    "platform": "Reddit",
+    "category": "Social Media",
+    "memberCount": "340,000+ members",
+    "description": "Omnichannel video distribution, viral hook formulas, thumbnail A/B testing frameworks, and community growth.",
+    "joinUrl": "https://www.reddit.com/r/socialmediamarketing/",
+    "tags": [
+      "smm",
+      "thumbnails",
+      "hooks",
+      "virality"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-12",
+    "title": "r/CreatorServices Production Market",
+    "platform": "Reddit",
+    "category": "Creative Hiring",
+    "memberCount": "48,000+ members",
+    "description": "Hiring voiceover artists, scriptwriters, video editors, and thumbnail artists for faceless cashcow channels.",
+    "joinUrl": "https://www.reddit.com/r/CreatorServices/",
+    "tags": [
+      "creatorservices",
+      "hiring",
+      "voiceovers",
+      "editors"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-13",
+    "title": "r/smallbusiness Media Companies",
+    "platform": "Reddit",
+    "category": "Media Business",
+    "memberCount": "2,400,000+ members",
+    "description": "Running digital media studios, hiring remote contractor teams in the Philippines, and corporate video production.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "media",
+      "contractors",
+      "studios"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-14",
+    "title": "r/passive_income Digital Asset Portfolios",
+    "platform": "Reddit",
+    "category": "Passive Income",
+    "memberCount": "580,000+ members",
+    "description": "Building evergreen cashcow YouTube channel networks that generate consistent monthly Google AdSense revenue.",
+    "joinUrl": "https://www.reddit.com/r/passive_income/",
+    "tags": [
+      "passiveincome",
+      "cashcow",
+      "adsense",
+      "evergreen"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-15",
+    "title": "r/audioengineering Voice & Audio Quality",
+    "platform": "Reddit",
+    "category": "Audio Engineering",
+    "memberCount": "290,000+ members",
+    "description": "Mastering voiceover audio, EQ curve balancing, noise reduction (iZotope RX), compression, and room acoustics.",
+    "joinUrl": "https://www.reddit.com/r/audioengineering/",
+    "tags": [
+      "audio",
+      "voiceover",
+      "eq",
+      "mastering"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-discord-16",
+    "title": "YouTube Creators Official Discord",
+    "platform": "Discord",
+    "category": "Creator Discord",
+    "memberCount": "65,000+ members",
+    "description": "Official Discord server for YouTube creators, discussing CTR optimization, YouTube Analytics, and video feedback.",
+    "joinUrl": "https://discord.gg/creators",
+    "tags": [
+      "creators",
+      "discord",
+      "ctr",
+      "analytics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-discord-17",
+    "title": "Video Editors Global Discord Server",
+    "platform": "Discord",
+    "category": "Editor Lounge",
+    "memberCount": "58,000+ members",
+    "description": "Community of professional YouTube editors sharing sound effect (SFX) packs, motion presets, and client job listings.",
+    "joinUrl": "https://discord.gg/videoediting",
+    "tags": [
+      "videoediting",
+      "discord",
+      "sfx",
+      "presets"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-discord-18",
+    "title": "YouTube Growth & Strategy Discord",
+    "platform": "Discord",
+    "category": "Algorithm Strategy",
+    "memberCount": "45,000+ members",
+    "description": "In-depth discussions on algorithmic impressions, browse features vs suggested videos, and thumbnail split-tests.",
+    "joinUrl": "https://discord.gg/youtube",
+    "tags": [
+      "youtube",
+      "discord",
+      "algorithm",
+      "browse"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-discord-19",
+    "title": "Faceless Creators Community Discord",
+    "platform": "Discord",
+    "category": "Automation Hub",
+    "memberCount": "38,000+ members",
+    "description": "Server dedicated to faceless channels, automated scripting tools, elevenlabs voice pipelines, and niche CPM tiers.",
+    "joinUrl": "https://discord.gg/faceless",
+    "tags": [
+      "faceless",
+      "discord",
+      "voiceovers",
+      "automation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-discord-20",
+    "title": "Premiere & AfterEffects Pro Discord",
+    "platform": "Discord",
+    "category": "Adobe Specialists",
+    "memberCount": "42,000+ members",
+    "description": "Motion graphics templates, script automation (ExtendScript), render farm setups, and asset libraries.",
+    "joinUrl": "https://discord.gg/editing",
+    "tags": [
+      "editing",
+      "discord",
+      "premiere",
+      "aftereffects"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-telegram-21",
+    "title": "Faceless YouTube Channels Telegram",
+    "platform": "Telegram",
+    "category": "Cashcow Channels",
+    "memberCount": "62,000+ members",
+    "description": "Daily case studies on profitable faceless channels, high-CPM niches (finance, tech, luxury), and production costs.",
+    "joinUrl": "https://t.me/facelessyoutube",
+    "tags": [
+      "faceless",
+      "telegram",
+      "cashcow",
+      "cpm"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-telegram-22",
+    "title": "YouTube Cashcow Automation Telegram",
+    "platform": "Telegram",
+    "category": "Production Pipelines",
+    "memberCount": "54,000+ members",
+    "description": "Standard operating procedures (SOPs) for managing video editors, scriptwriters, and thumbnail artists on Upwork.",
+    "joinUrl": "https://t.me/youtubecashcow",
+    "tags": [
+      "cashcow",
+      "telegram",
+      "sops",
+      "automation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-telegram-23",
+    "title": "Viral Shorts & Video AI Telegram",
+    "platform": "Telegram",
+    "category": "Shorts Virality",
+    "memberCount": "68,000+ members",
+    "description": "Curated viral shorts hooks, AI B-roll generation workflows, automated captions, and monetization metrics.",
+    "joinUrl": "https://t.me/viralshorts",
+    "tags": [
+      "viralshorts",
+      "telegram",
+      "hooks",
+      "broll"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-telegram-24",
+    "title": "High CTR Thumbnails Channel Telegram",
+    "platform": "Telegram",
+    "category": "Thumbnail Design",
+    "memberCount": "48,000+ members",
+    "description": "Daily thumbnail tear-downs, typography rules, color contrast psychology, and 12%+ CTR case studies.",
+    "joinUrl": "https://t.me/highctrthumbnails",
+    "tags": [
+      "thumbnails",
+      "telegram",
+      "ctr",
+      "design"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-telegram-25",
+    "title": "Video AI & Editing Tools Telegram",
+    "platform": "Telegram",
+    "category": "Creator Tooling",
+    "memberCount": "58,000+ members",
+    "description": "Updates on AI video tools (Runway, Midjourney, ElevenLabs, Topaz Video AI) and ethical creator workflows.",
+    "joinUrl": "https://t.me/videoaitools",
+    "tags": [
+      "videoai",
+      "telegram",
+      "elevenlabs",
+      "runway"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-26",
+    "title": "r/animation Motion & Storytelling",
+    "platform": "Reddit",
+    "category": "Animation",
+    "memberCount": "320,000+ members",
+    "description": "2D and 3D character animation, keyframing, timing principles, and animated explainer channel production.",
+    "joinUrl": "https://www.reddit.com/r/animation/",
+    "tags": [
+      "animation",
+      "2d",
+      "3d",
+      "storytelling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-27",
+    "title": "r/Filmmakers Production Standards",
+    "platform": "Reddit",
+    "category": "Filmmaking",
+    "memberCount": "2,200,000+ members",
+    "description": "Cinematography, lighting setups, directional audio recording, and high-production value documentary storytelling.",
+    "joinUrl": "https://www.reddit.com/r/Filmmakers/",
+    "tags": [
+      "filmmakers",
+      "cinematography",
+      "lighting",
+      "audio"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-28",
+    "title": "r/Entrepreneur Media Enterprise",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "Building digital media companies, intellectual property valuation, brand sponsorships, and multi-channel networks.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "media",
+      "ip",
+      "sponsorships"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-29",
+    "title": "r/YouTubeGamers Gaming Channels",
+    "platform": "Reddit",
+    "category": "Gaming Creators",
+    "memberCount": "78,000+ members",
+    "description": "Game capture setups, OBS studio optimization, let's play commentary pacing, and gaming community growth.",
+    "joinUrl": "https://www.reddit.com/r/YouTubeGamers/",
+    "tags": [
+      "gaming",
+      "obs",
+      "gameplay",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "faceless-youtube-automation-media-empire-hub-telegram-30",
+    "title": "YouTube Monetization Secrets Telegram",
+    "platform": "Telegram",
+    "category": "AdSense & Sponsors",
+    "memberCount": "46,000+ members",
+    "description": "Negotiating direct brand integrations, affiliate links in video descriptions, and YouTube Shopping merchandising.",
+    "joinUrl": "https://t.me/youtubemonetization",
+    "tags": [
+      "monetization",
+      "telegram",
+      "sponsors",
+      "merch"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]

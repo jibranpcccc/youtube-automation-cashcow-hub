@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faceless YouTube Automation &amp; Media Empire Hub</title>
+    <link>https://jibranpcccc.github.io/youtube-automation-cashcow-hub/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Thu, 10 Sep 2026 11:03:16 GMT</lastBuildDate>
+    <atom:link href="https://jibranpcccc.github.io/youtube-automation-cashcow-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Faceless YouTube Automation &amp; Media Empire Hub Initial Release</title>
+      <link>https://jibranpcccc.github.io/youtube-automation-cashcow-hub/</link>
+      <pubDate>Thu, 10 Sep 2026 11:03:16 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
