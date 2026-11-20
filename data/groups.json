@@ -1,5 +1,24 @@
 [
   {
+    "id": "faceless-youtube-automation-media-empire-hub-reddit-3",
+    "title": "r/VideoEditing Post-Production Craft",
+    "platform": "Reddit",
+    "category": "Video Editing",
+    "memberCount": "420,000+ members",
+    "description": "Mastering editing workflows, motion graphics, sound design, color grading, and speed-editing techniques.",
+    "joinUrl": "https://www.reddit.com/r/VideoEditing/",
+    "tags": [
+      "videoediting",
+      "motiongraphics",
+      "sounddesign",
+      "editing"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "faceless-youtube-automation-media-empire-hub-reddit-2",
     "title": "r/youtubers Professional Video Creators",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -872,24 +891,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "faceless-youtube-automation-media-empire-hub-reddit-3",
-    "title": "r/VideoEditing Post-Production Craft",
-    "platform": "Reddit",
-    "category": "Video Editing",
-    "memberCount": "420,000+ members",
-    "description": "Mastering editing workflows, motion graphics, sound design, color grading, and speed-editing techniques.",
-    "joinUrl": "https://www.reddit.com/r/VideoEditing/",
-    "tags": [
-      "videoediting",
-      "motiongraphics",
-      "sounddesign",
-      "editing"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "faceless-youtube-automation-media-empire-hub-reddit-4",
